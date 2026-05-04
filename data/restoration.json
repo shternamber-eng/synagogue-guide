@@ -1,0 +1,5 @@
+[
+ {"id":"2018-cemetery","year":"2018","date":"2018-07","title":"Cemetery restoration and fencing work","description":"Initial preservation and perimeter work.","category":"Cemetery","status":"completed","images":["public/images/gallery/cemetery-restoration.jpg"],"source":"Published sources / project archive","notes":"Requires verification","relatedGalleryItems":["cemetery-2025"]},
+ {"id":"2024-ohel","year":"2024","date":"2024-04","title":"Renovation of the Ohel of the Rebbeim","description":"Renovation work was completed at the Ohel associated with the Tzemach Tzedek and the Rebbe Maharash.","category":"Ohel","status":"completed","images":["public/images/gallery/ohel-renovation-2024.jpg"],"source":"Anash.org / Chabad news sources","notes":"Verify final wording before publication.","relatedGalleryItems":["ohel-renovation-2024-01"]},
+ {"id":"2026-current","year":"2026","date":"2026-02","title":"Current preservation and archive development","description":"Ongoing documentation, visitor support, and archive preparation.","category":"Archive","status":"in progress","images":[],"source":"Project archive","notes":"Living timeline entry","relatedGalleryItems":[]}
+]
