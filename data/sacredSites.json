@@ -1,0 +1,4 @@
+[
+ {"id":"ohel-rebbeim","title":"The Ohel of the Rebbeim","slug":"ohel-rebbeim","image":"public/images/sites/ohel-rebbeim.jpg","description":"Associated with the resting places of the Tzemach Tzedek and Rebbe Maharash.","significance":"A place of prayer and connection.","status":"Restored and maintained","category":"Ohel"},
+ {"id":"historic-cemetery","title":"Historic Cemetery","slug":"historic-cemetery","image":"public/images/sites/cemetery.jpg","description":"Contains historic matzeivos and remains a major preservation focus.","significance":"Genealogical and spiritual continuity.","status":"Active restoration","category":"Cemetery"}
+]
