@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /article-aron-kodesh-basement-to-blueprint-ru.html
+
+Sitemap: https://synagogue-guide.com/sitemap.xml
